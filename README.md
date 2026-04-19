@@ -29,6 +29,7 @@
 ## 📌 Projetos em destaque
 
 🌤️ **Aura do Clima**
+
 Aura do Clima é uma aplicação web de previsão do tempo que exibe dados climáticos em tempo real para qualquer cidade do Brasil. 
 
 Com uma interface moderna e imersiva, o app adapta o fundo visual de acordo com as condições climáticas e oferece temas visuais para manhã, tarde e noite.
@@ -38,6 +39,7 @@ Com uma interface moderna e imersiva, o app adapta o fundo visual de acordo com 
 ---
 
 🃏 **LingoCards**
+
 LingoCards é uma aplicação web de flashcards para aprendizado de vocabulário em inglês. 
 
 O sistema é dividido em níveis (Básico, Intermediário e Avançado), e cada nível contém um conjunto de cartões com palavras em inglês no verso e a tradução com informações extras na frente.
