@@ -1,10 +1,9 @@
 ## Olá, eu sou o Otávio!
 
-🎓 Formado em **Ciência da Computação** e atualmente cursando uma Pós-Graduação em **Engenharia de Software**.
-
-💡 Interessado em **Desenvolvimento de Software e Full Stack**.
-
-🚀 Aprendo desenvolvendo projetos práticos, desafiadores e que agreguem valor.
+🎓 Formado em **Ciência da Computação** · Pós-graduação em **Engenharia de Software** (em andamento)
+⚙️ Foco em **Engenharia de Software** — arquitetura, qualidade de código e integração de IA
+🤖 Acredito que o diferencial do engenheiro na era da IA é conduzir soluções com critério, não apenas gerar código
+🚀 Aprendo construindo projetos reais — do zero ao deploy, com boas práticas do início ao fim
 
 ---
 
@@ -19,9 +18,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
   <img src="https://www.svgrepo.com/show/333609/tailwind-css.svg" height="40"/>
-  <img src="https://www.svgrepo.com/show/452234/java.svg" height="40"/>
 </div>
 
 ---
@@ -29,32 +26,24 @@
 ## 📌 Projetos em destaque
 
 🌤️ **Aura do Clima**
-
-Aura do Clima é uma aplicação web de previsão do tempo que exibe dados climáticos em tempo real para qualquer cidade do Brasil. 
-
-Com uma interface moderna e imersiva, o app adapta o fundo visual de acordo com as condições climáticas e oferece temas visuais para manhã, tarde e noite.
-
-🔗 **Link do projeto:** https://auradoclima.netlify.app/
+App de previsão do tempo com interface imersiva que adapta o visual às condições climáticas em tempo real.
+Integra a **Google Gemini AI** via API REST para gerar insights contextuais — com tratamento robusto de erros e tipagem segura em TypeScript.
+Arquitetura em camadas separando UI, serviços e dados externos.
+🔗 [auradoclima.netlify.app](https://auradoclima.netlify.app/)
 
 ---
 
 🃏 **LingoCards**
-
-LingoCards é uma aplicação web de flashcards para aprendizado de vocabulário em inglês. 
-
-O sistema é dividido em níveis (Básico, Intermediário e Avançado), e cada nível contém um conjunto de cartões com palavras em inglês no verso e a tradução com informações extras na frente.
-
-O usuário pode navegar pelos cartões, virar cada um para ver a tradução, e o progresso é salvo automaticamente no banco de dados em tempo real. Tudo com autenticação segura e suporte a tema claro/escuro.
-
-🔗 **Link do projeto:** https://lingocard.netlify.app/login
+Aplicação de flashcards para aprendizado de inglês com autenticação segura e persistência em tempo real via **Firebase Firestore**.
+Codebase modular com separação clara de responsabilidades, seguindo boas práticas de componentização em React — base sólida e escalável.
+🔗 [lingocard.netlify.app](https://lingocard.netlify.app/login)
 
 ---
 
-## 📚 Cursos realizados
+## 📚 Formação
 
-- Ciência da Computação (UniAmérica)
-- Inteligência Artificial Aplicada (Graduação)
-- Data Analytics (Graduação)
+- 🎓 Bacharelado em Ciência da Computação
+- 📖 Pós-graduação em Engenharia de Software
 
 ---
 
@@ -64,12 +53,10 @@ O usuário pode navegar pelos cartões, virar cada um para ver a tradução, e o
   <a href="https://www.linkedin.com/in/otaviogusto/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
   </a>
-
   <a href="mailto:otaviogusto.dev@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="40"/>
   </a>
-
   <a href="https://www.instagram.com/otaviogusto.dev/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1280px-Instagram_logo_2022.svg.png?_=20220518162235" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1280px-Instagram_logo_2022.svg.png" height="40"/>
   </a>
 </div>
